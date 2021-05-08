@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Applications Development.
 - 🌱 I’m currently learning Python, JavaScript, NodeJs, ReactJs.
 - 💞️ I’m looking to collaborate on designing and bulding web application development.
-- 📫 How to reach me via: Instagram(https://www.instagram.com/fo_dare_/) Or Discord(fodäre#0647)
+- 📫 How to reach me via: Instagram(https://www.instagram.com/fo_dare_/) or Discord(fodäre#0647)
 - 🔗 You can also visit my personal page to read more on my sample project: https://fodare.github.io/CV/
 
 <!---
